@@ -1,1 +1,5 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# In-Hwan Jin
+
+Personal academic website for In-Hwan Jin.
+
+Built with plain HTML and CSS, based on [Jon Barron's website template](https://github.com/jonbarron/jonbarron_website).
